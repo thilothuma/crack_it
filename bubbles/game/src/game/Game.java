@@ -16,10 +16,10 @@ public class Game {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //new Guess();
+        new Guess();
        // new puzzle(0);
         //new Minesweeper();
-        new TTT1();
+        //new TTT1();
     }
     
 }
